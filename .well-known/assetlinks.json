@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "cl.forumtechnologies.locally",
+            "sha256_cert_fingerprints": [
+                "B9:57:65:FF:66:EB:CF:D3:B2:7A:06:33:08:A5:EB:4D:93:75:94:28:09:68:BE:40:40:46:4D:0D:2E:C9:2B:EA"
+            ]
+        }
+    }
+]
